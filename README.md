@@ -10,7 +10,7 @@
 
 ## Laravel 9 Crud
 
-Laravel 9 Crud is a basic crud app built with laravel 9. In this app a basic product crud created. 
+Laravel 9 Crud is a basic crud app built with laravel 9, and now runs on Laravel 13. In this app a basic product crud created. 
 Features include:
 
 - Laravel ui package (```composer require laravel/ui```)
